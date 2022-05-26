@@ -1,0 +1,21 @@
+main.o main.o: ../main.c ../LIB/STD_TYPES.h ../LIB/BITMATH.h \
+  ../DIO/DIO_interface.h ../DIO/../LIB/STD_TYPES.h \
+  ../UART_DRIV/UART_INTR.h ../UART_DRIV/../LIB/STD_TYPES.h \
+  ../BLUETOOTH_USERS/BLUETOOTH_USERS_interface.h \
+  ../BLUETOOTH_USERS/../LIB/STD_TYPES.h
+
+../LIB/STD_TYPES.h:
+
+../LIB/BITMATH.h:
+
+../DIO/DIO_interface.h:
+
+../DIO/../LIB/STD_TYPES.h:
+
+../UART_DRIV/UART_INTR.h:
+
+../UART_DRIV/../LIB/STD_TYPES.h:
+
+../BLUETOOTH_USERS/BLUETOOTH_USERS_interface.h:
+
+../BLUETOOTH_USERS/../LIB/STD_TYPES.h:
