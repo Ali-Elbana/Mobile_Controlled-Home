@@ -11,7 +11,10 @@ Three subsystems are implemented:
 
 In case of entering the name of the password 3 times wrong, the system should give alarm.
 
-1- Project example:  https://www.youtube.com/watch?v=um2uw2KmWF0
-2- Bluetooth module: http://store.fut-electronics.com/products/serial- bluetooth-module-master-slave
-3- Solenoid:         http://store.fut-electronics.com/products/solenoid- linear-motion-5v
-4- Siren Alarm:      http://store.fut-electronics.com/products/110dba-siren- loud-voice
+1- Project example:  https://www.youtube.com/watch?v=um2uw2KmWF0.
+
+2- Bluetooth module: http://store.fut-electronics.com/products/serial- bluetooth-module-master-slave.
+
+3- Solenoid:         http://store.fut-electronics.com/products/solenoid- linear-motion-5v.
+
+4- Siren Alarm:      http://store.fut-electronics.com/products/110dba-siren- loud-voice.
